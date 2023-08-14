@@ -21,7 +21,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 - Microsoft Azure
 - Virtual Machine
-- osTicket Installation Files [link](https://github.com/bernardtabiri/virtualmachine)
+- osTicket Installation Files [link](https://drive.google.com/drive/u/0/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6)
 
 
 <h2>Installation Steps</h2>
